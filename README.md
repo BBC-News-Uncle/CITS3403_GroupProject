@@ -6,7 +6,7 @@ Name of App
 | :--- | :--- | :--- |
 | 24849627 | Jo Almero | Jo
 | 24464914 | Nafis Biswas | Nafis
-| 2443991 | Shin Nyaim Thu | Shin
+| 24436991 | Shin Nyaim Thu | Shin
 
 Instructions for how to launch application
 :---
